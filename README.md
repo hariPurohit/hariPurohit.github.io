@@ -1,2 +1,2 @@
 # hariPurohit.github.io
-My personal academic website
+This repo contains my personal website.
